@@ -27,4 +27,4 @@ Here are some ideas to get you started:
 ### :woman_technologist: About Me :
 I am a student <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExeXFnc3ZxNjVtOXp5ZmppZG9yNHZvZTBueHZnM2Vha3FjM2ZvaXJjMiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/RbDKaczqWovIugyJmW/giphy.gif" width="50">. While there are educational projects here
 
-- I want to become a full stack developer
+- :zap: I want to become a fullstack developer
