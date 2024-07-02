@@ -28,3 +28,19 @@ Here are some ideas to get you started:
 I am a student <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExeXFnc3ZxNjVtOXp5ZmppZG9yNHZvZTBueHZnM2Vha3FjM2ZvaXJjMiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/RbDKaczqWovIugyJmW/giphy.gif" width="50">. While there are educational projects here
 
 - :zap: I want to become a fullstack developer
+
+---
+
+### :hammer_and_wrench: Languages and Tools (for the future):
+
+<div>
+  <img src="https://github.com/tatvladna/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/tatvladna/devicon/blob/master/icons/postgresql/postgresql-original-wordmark.svg" title="PSQL"  alt="PSQL" width="40" height="40"/>&nbsp;
+    <img src="https://github.com/tatvladna/devicon/blob/master/icons/html5/html5-original-wordmark.svg" title="HTML5"  alt="HTML5" width="40" height="40"/>&nbsp;
+    <img src="https://github.com/tatvladna/devicon/blob/master/icons/css3/css3-original-wordmark.svg" title="HTML5"  alt="HTML5" width="40" height="40"/>&nbsp;
+    <img src="https://github.com/tatvladna/devicon/blob/master/icons/go/go-original-wordmark.svg" title="HTML5"  alt="HTML5" width="40" height="40"/>&nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
+  
+</div>
+
