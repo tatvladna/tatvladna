@@ -21,5 +21,10 @@ Here are some ideas to get you started:
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=tatvladna&style=flat-square&color=blue" alt=""/>
 </div>
+
 #
+
 ### :woman_technologist: About Me :
+I am a student <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExeXFnc3ZxNjVtOXp5ZmppZG9yNHZvZTBueHZnM2Vha3FjM2ZvaXJjMiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/RbDKaczqWovIugyJmW/giphy.gif" width="30">. While there are educational projects here
+
+- I want to become a full stack developer
