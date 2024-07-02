@@ -48,4 +48,5 @@ I am a student <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExeXFnc3ZxNj
 
 ### :fire: My Stats :
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=tatvladna&theme=dark&background=000000)](https://git.io/streak-stats)
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tatvladna&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
