@@ -37,11 +37,26 @@ I am a student <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExeXFnc3ZxNj
   <img src="https://github.com/tatvladna/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
   <img src="https://github.com/tatvladna/devicon/blob/master/icons/pandas/pandas-original-wordmark.svg" title="Pandas" alt="Pandas" width="50" height="50"/>&nbsp;
   <img src="https://github.com/tatvladna/devicon/blob/master/icons/matplotlib/matplotlib-original-wordmark.svg" title="Matplotlib" alt="Matplotlib" width="50" height="50"/>&nbsp;
+  <img src="https://github.com/tatvladna/devicon/blob/master/icons/plotly/plotly-original-wordmark.svg" title="Plotly" alt="Plotly" width="50" height="50"/>&nbsp;
+  <img src="https://github.com/tatvladna/devicon/blob/master/icons/django/django-plain-wordmark.svg" title="Django" alt="Django" width="50" height="50"/>&nbsp;
+
+  
+  <img src="https://github.com/tatvladna/devicon/blob/master/icons/html5/html5-original-wordmark.svg" title="HTML5"  alt="HTML5" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/tatvladna/devicon/blob/master/icons/css3/css3-original-wordmark.svg" title="CSS3"  alt="CSS3" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/tatvladna/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript"  alt="JavaScript" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/tatvladna/devicon/blob/master/icons/typescript/typescript-original.svg" title="TypeScript"  alt="TypeScript" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/tatvladna/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React"  alt="React" width="40" height="40"/>&nbsp;
+
+  
+  <img src="https://github.com/tatvladna/devicon/blob/master/icons/go/go-original-wordmark.svg" title="Go"  alt="Go" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/tatvladna/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java"  alt="Java" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/tatvladna/devicon/blob/master/icons/php/php-original.svg" title="PHP"  alt="PHP" width="40" height="40"/>&nbsp;
+
+  <img src="https://github.com/tatvladna/devicon/blob/master/icons/swagger/swagger-original-wordmark.svg" title="Swagger"  alt="Swagger" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/tatvladna/devicon/blob/master/icons/docker/docker-original-wordmark.svg" title="Docker"  alt="Docker" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
   <img src="https://github.com/tatvladna/devicon/blob/master/icons/postgresql/postgresql-original-wordmark.svg" title="PSQL"  alt="PSQL" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/tatvladna/devicon/blob/master/icons/html5/html5-original-wordmark.svg" title="HTML5"  alt="HTML5" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/tatvladna/devicon/blob/master/icons/css3/css3-original-wordmark.svg" title="HTML5"  alt="HTML5" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/tatvladna/devicon/blob/master/icons/go/go-original-wordmark.svg" title="HTML5"  alt="HTML5" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/tatvladna/devicon/blob/master/icons/linux/linux-original.svg" title="Linux"  alt="Linux" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
   
 </div>
