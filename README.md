@@ -40,10 +40,11 @@ I am a student <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExeXFnc3ZxNj
   <img src="https://github.com/tatvladna/devicon/blob/master/icons/jupyter/jupyter-original-wordmark.svg" title="Jupyter" alt="Jupyter" width="50" height="50"/>&nbsp;
   <img src="https://github.com/tatvladna/devicon/blob/master/icons/scikitlearn/scikitlearn-original.svg" title="Scikit-learn" alt="Scikit-learn" width="65" height="65"/>&nbsp;
   <img src="https://github.com/tatvladna/devicon/blob/master/icons/plotly/plotly-original-wordmark.svg" title="Plotly" alt="Plotly" width="55" height="55"/>&nbsp;
+  
 
   <img src="https://github.com/tatvladna/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" width="50" height="50" alt=""/>
-    <img src="https://github.com/tatvladna/devicon/blob/master/icons/html5/html5-original-wordmark.svg" title="HTML" width="50" height="50" alt=""/>
-    <img src="https://github.com/tatvladna/devicon/blob/master/icons/css3/css3-original-wordmark.svg" title="CSS" width="50" height="50" alt=""/>
+  <img src="https://github.com/tatvladna/devicon/blob/master/icons/html5/html5-original-wordmark.svg" title="HTML" width="50" height="50" alt=""/>
+  <img src="https://github.com/tatvladna/devicon/blob/master/icons/css3/css3-original-wordmark.svg" title="CSS" width="50" height="50" alt=""/>
   <img src="https://github.com/tatvladna/devicon/blob/master/icons/react/react-original.svg" title="React" width="50" height="50" alt=""/>
   <img src="https://github.com/tatvladna/devicon/blob/master/icons/mongodb/mongodb-original-wordmark.svg" title="MongoDB" width="50" height="50" alt=""/>
   <img src="https://github.com/tatvladna/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="MongoDB" width="50" height="50" alt=""/>
