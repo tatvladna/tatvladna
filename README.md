@@ -47,7 +47,7 @@ I am a student <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExeXFnc3ZxNj
   <img src="https://github.com/tatvladna/devicon/blob/master/icons/css3/css3-original-wordmark.svg" title="CSS" width="50" height="50" alt=""/>&nbsp;
   <img src="https://github.com/tatvladna/devicon/blob/master/icons/react/react-original.svg" title="React" width="50" height="50" alt=""/>&nbsp;
   <img src="https://github.com/tatvladna/devicon/blob/master/icons/mongodb/mongodb-original-wordmark.svg" title="MongoDB" width="50" height="50" alt=""/>&nbsp;
-  <img src="https://github.com/tatvladna/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="MongoDB" width="50" height="50" alt=""/>&nbsp;
+  <img src="https://github.com/tatvladna/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" width="50" height="50" alt=""/>&nbsp;
   
   
 
