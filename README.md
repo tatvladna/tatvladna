@@ -50,7 +50,7 @@ I am a student <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExeXFnc3ZxNj
   <img src="https://github.com/tatvladna/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" width="50" height="50" alt=""/>&nbsp;
   
   
-  <img src="https://github.com/tatvladna/devicon/blob/master/icons/rust/rust-original.svg" title="Rust" alt="Rust" width="40" heigth="40"/>&nbsp;
+  <img src="https://github.com/tatvladna/devicon/blob/master/icons/rust/rust-line.svg" title="Rust" alt="Rust" width="40" heigth="40"/>&nbsp;
   <img src="https://github.com/tatvladna/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" title="C++"  alt="C++" width="40" height="40"/>&nbsp;
   <img src="https://github.com/tatvladna/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java"  alt="Java" width="40" height="40"/>&nbsp;
 
