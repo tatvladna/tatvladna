@@ -34,9 +34,9 @@ I am a student <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExeXFnc3ZxNj
 ### :hammer_and_wrench: Languages and Tools:
 
 <div>
-  <img src="https://github.com/tatvladna/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" alt="Python" width="60" height="60"/>&nbsp;
-  <img src="https://github.com/tatvladna/devicon/blob/master/icons/pandas/pandas-original-wordmark.svg" title="Pandas" alt="Pandas" width="60" height="60"/>&nbsp;
-  <img src="https://github.com/tatvladna/devicon/blob/master/icons/matplotlib/matplotlib-original-wordmark.svg" title="Matplotlib" alt="Matplotlib" width="60" height="60"/>&nbsp;
+  <img src="https://github.com/tatvladna/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" alt="Python" width="50" height="50"/>&nbsp;
+  <img src="https://github.com/tatvladna/devicon/blob/master/icons/pandas/pandas-original-wordmark.svg" title="Pandas" alt="Pandas" width="50" height="50"/>&nbsp;
+  <img src="https://github.com/tatvladna/devicon/blob/master/icons/matplotlib/matplotlib-original-wordmark.svg" title="Matplotlib" alt="Matplotlib" width="50" height="50"/>&nbsp;
   <img src="https://github.com/tatvladna/devicon/blob/master/icons/jupyter/jupyter-original-wordmark.svg" title="Jupyter" alt="Jupyter" width="55" height="55"/>&nbsp;
   <img src="https://github.com/tatvladna/devicon/blob/master/icons/scikitlearn/scikitlearn-original.svg" title="Scikit-learn" alt="Scikit-learn" width="65" height="65"/>&nbsp;
   <img src="https://github.com/tatvladna/devicon/blob/master/icons/plotly/plotly-original-wordmark.svg" title="Plotly" alt="Plotly" width="55" height="55"/>&nbsp;
@@ -50,15 +50,15 @@ I am a student <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExeXFnc3ZxNj
   <img src="https://github.com/tatvladna/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" width="50" height="50" alt=""/>&nbsp;
   
   
-  <img src="https://github.com/tatvladna/devicon/blob/master/icons/rust/rust-original.svg" title="Rust" alt="Rust" width="60" heigth="60"/>&nbsp;
+  <img src="https://github.com/tatvladna/devicon/blob/master/icons/rust/rust-original.svg" title="Rust" alt="Rust" width="55" heigth="55"/>&nbsp;
   <img src="https://github.com/tatvladna/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" title="C++"  alt="C++" width="50" height="50"/>&nbsp;
   <img src="https://github.com/tatvladna/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java"  alt="Java" width="55" height="55"/>&nbsp;
 
   <img src="https://github.com/tatvladna/devicon/blob/master/icons/docker/docker-original-wordmark.svg" title="Docker"  alt="Docker" width="50" height="50"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="60" height="60"/>&nbsp;
-  <img src="https://github.com/tatvladna/devicon/blob/master/icons/postgresql/postgresql-original-wordmark.svg" title="PSQL"  alt="PSQL" width="60" height="60"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="50" height="50"/>&nbsp;
+  <img src="https://github.com/tatvladna/devicon/blob/master/icons/postgresql/postgresql-original-wordmark.svg" title="PSQL"  alt="PSQL" width="50" height="50"/>&nbsp;
   <img src="https://github.com/tatvladna/devicon/blob/master/icons/linux/linux-original.svg" title="Linux"  alt="Linux" width="50" height="50"/>&nbsp;
-  <img src="https://github.com/tatvladna/devicon/blob/master/icons/bash/bash-original.svg" title="Bash" alt="Bash" width="60" height="60"/>
+  <img src="https://github.com/tatvladna/devicon/blob/master/icons/bash/bash-original.svg" title="Bash" alt="Bash" width="50" height="50"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="60" height="60"/>
 
   
