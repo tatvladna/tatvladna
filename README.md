@@ -49,7 +49,7 @@ I am a student <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExeXFnc3ZxNj
   <img src="https://github.com/tatvladna/devicon/blob/master/icons/mongodb/mongodb-original-wordmark.svg" title="MongoDB" width="50" height="50" alt=""/>&nbsp;
   <img src="https://github.com/tatvladna/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" width="50" height="50" alt=""/>&nbsp;
   
-  
+  <img src="https://e7.pngegg.com/pngimages/114/914/png-clipart-rust-programming-language-logo-machine-learning-haskell-crab-animals-cartoon.png" title="Rust" alt="Rust" width="55" heigth="55"/>&nbsp;
   <img src="https://github.com/tatvladna/devicon/blob/master/icons/rust/rust-original.svg" title="Rust" alt="Rust" width="55" heigth="55"/>&nbsp;
   <img src="https://github.com/tatvladna/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" title="C++"  alt="C++" width="50" height="50"/>&nbsp;
   <img src="https://github.com/tatvladna/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java"  alt="Java" width="55" height="55"/>&nbsp;
