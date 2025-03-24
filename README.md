@@ -49,9 +49,10 @@ I am a student <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExeXFnc3ZxNj
   <img src="https://github.com/tatvladna/devicon/blob/master/icons/mongodb/mongodb-original-wordmark.svg" title="MongoDB" width="50" height="50" alt=""/>&nbsp;
   <img src="https://github.com/tatvladna/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" width="50" height="50" alt=""/>&nbsp;
   
-  <img src="https://ucarecdn.com/0a06dee8-6d8f-4b05-b7c2-156960af2277/" title="Rust" alt="Rust" width="55" heigth="55"/>&nbsp;
+  <img src="https://ucarecdn.com/0a06dee8-6d8f-4b05-b7c2-156960af2277/" title="Rust" alt="Rust" width="60" heigth="60"/>&nbsp;
   <img src="https://github.com/tatvladna/devicon/blob/master/icons/rust/rust-original.svg" title="Rust" alt="Rust" width="55" heigth="55"/>&nbsp;
   <img src="https://github.com/tatvladna/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" title="C++"  alt="C++" width="50" height="50"/>&nbsp;
+  <img src="https://twosixtech.com/wp-content/uploads/rustacean-cpp.png" title="Rust" alt="Rust" width="60" heigth="60"/>&nbsp;
   <img src="https://github.com/tatvladna/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java"  alt="Java" width="55" height="55"/>&nbsp;
 
   <img src="https://github.com/tatvladna/devicon/blob/master/icons/docker/docker-original-wordmark.svg" title="Docker"  alt="Docker" width="50" height="50"/>&nbsp;
